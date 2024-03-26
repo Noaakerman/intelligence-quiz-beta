@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/intelligence-quiz-beta/static/css/main.407598cf.css",
+    "main.js": "/intelligence-quiz-beta/static/js/main.b199a8a7.js",
+    "static/js/453.20f0ce89.chunk.js": "/intelligence-quiz-beta/static/js/453.20f0ce89.chunk.js",
+    "static/media/circleOfPeople.png": "/intelligence-quiz-beta/static/media/circleOfPeople.cac36c7c143bf0c3cd96.png",
+    "static/media/backgroundScreenDeco.png": "/intelligence-quiz-beta/static/media/backgroundScreenDeco.ace14fc0411d89b7d7fb.png",
+    "static/media/blueFrame.png": "/intelligence-quiz-beta/static/media/blueFrame.0e01ced1a0981ea39843.png",
+    "static/media/brain.png": "/intelligence-quiz-beta/static/media/brain.cacdcb7230d3d19c203c.png",
+    "static/media/btnChange1.png": "/intelligence-quiz-beta/static/media/btnChange1.dc581f10811391cdf259.png",
+    "static/media/GveretLevinAlefAlefAlef-Regular.otf": "/intelligence-quiz-beta/static/media/GveretLevinAlefAlefAlef-Regular.ba23fce11f5a9a4584d9.otf",
+    "static/media/btnChange2.png": "/intelligence-quiz-beta/static/media/btnChange2.2c7f16d9258723fa2d3e.png",
+    "static/media/ganclm_bold-webfont.ttf": "/intelligence-quiz-beta/static/media/ganclm_bold-webfont.a87a0b32777d8192b6f7.ttf",
+    "static/media/blueDecoFirst.png": "/intelligence-quiz-beta/static/media/blueDecoFirst.a91e8ce856b3fc345476.png",
+    "index.html": "/intelligence-quiz-beta/index.html",
+    "main.407598cf.css.map": "/intelligence-quiz-beta/static/css/main.407598cf.css.map",
+    "main.b199a8a7.js.map": "/intelligence-quiz-beta/static/js/main.b199a8a7.js.map",
+    "453.20f0ce89.chunk.js.map": "/intelligence-quiz-beta/static/js/453.20f0ce89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407598cf.css",
+    "static/js/main.b199a8a7.js"
+  ]
+}
